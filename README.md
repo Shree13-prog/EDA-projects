@@ -9,7 +9,7 @@ This project focuses on Exploratory Data Analysis (EDA) of the Google Play Store
 
 ### 📂 Dataset
 
-Source: Google Play Store
+Source: Kaggle
 
 Features: App name, category, rating, reviews, size, installs, price, content rating, etc.
 
@@ -48,7 +48,7 @@ Plotly – Interactive visualizations
 
 
 
-Results & Recommendations
+### Results & Recommendations
 
 📍 Improving app ratings & reviews leads to higher installs.
 
