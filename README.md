@@ -1,8 +1,10 @@
 # EDA-projects
 
 Exploratory Data Analysis (EDA) - Google Play Store Data
+
 📌 Project Overview
 This project focuses on Exploratory Data Analysis (EDA) of the Google Play Store dataset. The goal is to analyze app trends, identify key factors influencing app success, and detect inconsistencies in the data.
+
 
 📂 Dataset
 Source: Google Play Store
@@ -12,6 +14,7 @@ Features: App name, category, rating, reviews, size, installs, price, content ra
 ✔️ Detect missing values, duplicates, and anomalies in the dataset.
 ✔️ Analyze correlations between features affecting app popularity.
 ✔️ Use visualizations to extract meaningful insights.
+
 
 🛠️ Tools & Libraries
 Python
@@ -23,6 +26,7 @@ Plotly – Interactive visualizations
 🔹 Effect of app ratings & reviews on installs
 🔹 Price analysis (Free vs. Paid apps)
 🔹 Size vs. performance trends
+
 
 Results & Recommendations
 📍 Improving app ratings & reviews leads to higher installs.
